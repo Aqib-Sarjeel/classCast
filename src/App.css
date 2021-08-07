@@ -4,8 +4,7 @@
   left: 0;
   top: 0;
   height: 100%;
-  overflow-y: hidden;
-  /* we can set overflow scroll once sidebar gets bulky (having more  elements)  */
+  overflow-y: scroll;
   line-height: 15px;
 }
 .sidebar-header {
